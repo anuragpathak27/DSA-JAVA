@@ -1,5 +1,3 @@
-package Assignment.Assignment1;
-
 public class reverse_integer {
     public static void main(String[] args) {
     
